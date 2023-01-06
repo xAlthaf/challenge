@@ -1,0 +1,101 @@
+body {
+  background-color: white;
+text-align: center;
+
+
+
+}
+
+h1 {
+ font-family:cursive;
+  color:  #66bfbf;
+  line-height: 100px;
+
+
+}
+
+h2 {
+  color:  #11999E;
+  font-family: sans-serif;
+  line-height: normal;
+  font-weight: normal
+  
+  
+
+}
+
+h3  {
+  color:  #11999E;
+  font-family: sans-serif ;
+  font-weight: normal;
+  line-height: normal;
+
+
+}
+
+.step1 {
+
+  padding-top: 50px;
+margin-left: 350px;
+ 
+
+}
+
+.step2 {
+
+ 
+
+}
+ 
+.althaf {
+ 
+  height: 305px;
+  width: 300px;
+margin-left: auto;
+   padding-top: 80px;
+}
+
+.mycomputer {
+
+height: 205px;
+ width: 200px;
+ 
+ margin-right: 500px; 
+ 
+}
+
+.mycomputer-row {
+ 
+margin-left: 200px; 
+  
+
+
+}
+
+.chillies {
+
+  height: 205px;
+ width: 200px;
+ margin-left: auto;
+
+   
+}
+
+.ronaldo{
+
+
+}
+ 
+
+.skillrow {
+
+  line-height: 30px;
+  
+ 
+}
+
+ 
+
+ 
+
+ 
